@@ -1,0 +1,9 @@
+1. git branch branca00 i git checkout branca00
+5. git checkout main i git status i git log a la branca00 hi ha un commit més.
+6. No, perque l'he fet desde la branca00, no de la main.
+7. git checkout branca 00 .Si, perque estic a la branca en la qual la he fet.
+10b. git merge branca00 main
+12. git push -u origin main
+12c. Si, perque has pujat a la branca main només.
+14a. git push -u origin branca01
+14c. A un commit.
